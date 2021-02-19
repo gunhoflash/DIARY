@@ -4,6 +4,8 @@ import Detail from './pages/Detail';
 
 import { Route, Switch } from 'react-router-dom';
 
+import './styles/scss/bootstrap.scss'
+
 function App() {
   return (
     <>
